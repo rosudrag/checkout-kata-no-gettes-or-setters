@@ -51,6 +51,7 @@
     <Compile Include="IScannerListener.cs" />
     <Compile Include="ItemRegister.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpecialOffers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
