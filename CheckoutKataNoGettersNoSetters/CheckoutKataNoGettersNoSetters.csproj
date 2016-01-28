@@ -44,7 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CheckoutSystem.cs" />
     <Compile Include="CheckoutTests.cs" />
+    <Compile Include="ICheckoutSystem.cs" />
+    <Compile Include="IItemRegister.cs" />
+    <Compile Include="IScannerListener.cs" />
+    <Compile Include="ItemRegister.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
